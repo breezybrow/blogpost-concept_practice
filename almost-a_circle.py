@@ -5,7 +5,7 @@
 def function(site_title, *args, **kwargs):
 
     blog_1 = 'I am so cool.'
-    blog_2 = 'Cars are cool.'
+    blog_2 = 'Cars are great.'
     blog_3 = 'Look at my cat.'
     site_title = 'My Blog'
 
